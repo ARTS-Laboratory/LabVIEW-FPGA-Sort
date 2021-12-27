@@ -1,2 +1,2 @@
-# -LabVIEW-FPGA-Sort
+# LabVIEW-FPGA-Sort
 A library for FPGA sort 
