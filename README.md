@@ -8,7 +8,7 @@ The provided palette has functions for
 All functions only support the single precisions floating data type.
 
 <p align="center">
-<img src="palette.JPG" alt="drawing" width="350"/>
+<img src="palette.JPG" alt="drawing" width="250"/>
 </p>
 <p align="center">
 </p>
