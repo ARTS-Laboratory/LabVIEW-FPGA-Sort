@@ -22,7 +22,7 @@ These functions enable array-based deployment of algorithms to FPGAs. Arrays are
 </p>
 
 ## How do I install this?
-Click [Releases](https://github.com/ARTS-Laboratory/LabVIEW-FPGA-Array-Based-Linear-Algebra/releases) on the right-hand side of the screen and download the latest release. The .vip file is what you want and is called "arts_lab_lib_array_based_sort-x.x.x.x.vip". You can install .vip files through NI's VIPM Browser. 
+Click [Releases](https://github.com/ARTS-Laboratory/LabVIEW-FPGA-Sort/releases) on the right-hand side of the screen and download the latest release. The .vip file is what you want and is called "arts_lab_lib_array_based_sort-x.x.x.x.vip". You can install .vip files through NI's VIPM Browser. 
 
 ## [Development workspace](development_workspace)
 Houses all the code used in building and developing the functions, including test deployments to FPGAs. 
