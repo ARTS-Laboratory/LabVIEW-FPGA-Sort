@@ -4,3 +4,6 @@ My Computer = "129.252.23.60"
 [NI-cRIO-9054-01F17EC3]
 NI-cRIO-9054-01F17EC3 = "172.22.11.2"
 
+[RT CompactRIO Target]
+RT CompactRIO Target = "129.252.23.53"
+
