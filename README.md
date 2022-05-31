@@ -45,7 +45,7 @@ This work is licensed under a
 
 Cite as:
 
-@Misc{Flemming2022SolarChargedUAV,  
+@Misc{Downey2021LabVIEWFPGASort,  
   author       = {Austin Downey},  
   howpublished = {GitHub},  
   month        = dec,   
