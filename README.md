@@ -1,5 +1,5 @@
 # LabVIEW-FPGA-Sort
-A library for sorting 1D arrays on FPGAs. This library is designed for ease of use over efficiency or timing.
+A LabVIEW library for sorting 1D arrays on FPGAs. This library is designed for ease of use over efficiency or timing.
 
 The provided palette has functions for 
 - Sort
@@ -30,15 +30,30 @@ Houses all the code used in building and developing the functions, including tes
 ## [Package](package)
 Houses the published packages.
 
+
+## Licensing and Citation
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-
-
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+
+Cite as:
+
+@Misc{Flemming2022SolarChargedUAV,  
+  author       = {Austin Downey},  
+  howpublished = {GitHub},  
+  month        = dec,   
+  title        = {LabVIEW FPGA Sort}, 
+  year         = {2021},    
+  groups       = {{ARTS-L}ab},  
+  url          = {https://github.com/ARTS-Laboratory/LabVIEW-FPGA-Sort},    
+}
+
 
 
